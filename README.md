@@ -41,9 +41,9 @@ UI and visuals matter just as much.
 ---
 
 <p align="left">
-	<img height="300" src="https://lyhfcpwkerlemovkfbxg.supabase.co/functions/v1/sharecard?placeId=3260590327&type=all" />
-	<img height="300" src="https://lyhfcpwkerlemovkfbxg.supabase.co/functions/v1/sharecard?placeId=78515341506665&type=all" />
-	<img height="300" src="https://lyhfcpwkerlemovkfbxg.supabase.co/functions/v1/sharecard?placeId=9300344892&type=all" />
+	<img height="250" src="https://lyhfcpwkerlemovkfbxg.supabase.co/functions/v1/sharecard?placeId=3260590327&type=all" />
+	<img height="250" src="https://lyhfcpwkerlemovkfbxg.supabase.co/functions/v1/sharecard?placeId=78515341506665&type=all" />
+	<img height="250" src="https://lyhfcpwkerlemovkfbxg.supabase.co/functions/v1/sharecard?placeId=9300344892&type=all" />
 </p>
 
 ---
