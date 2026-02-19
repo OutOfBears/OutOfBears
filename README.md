@@ -40,12 +40,6 @@ UI and visuals matter just as much.
 
 ---
 
-<p align="left">
-	<img src="https://rostats.app/share?game=78515341506665&type=all">
-</p>
-
----
-
 <br />
 
 <p align="left">
