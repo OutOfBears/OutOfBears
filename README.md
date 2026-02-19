@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="260" valign="top">
+    <td width="200" valign="top">
       <img src="https://i.imgur.com/lEtqn3i.png" width="240" />
     </td>
     <td valign="middle">
@@ -40,13 +40,19 @@ UI and visuals matter just as much.
 
 ---
 
+<p align="left">
+	<img src="https://rostats.app/share?game=78515341506665&type=all">
+</p>
+
+---
+
 <br />
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OutOfBears&theme=github_dark" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OutOfBears&theme=github_dark" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OutOfBears&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OutOfBears&theme=github_dark" />
+  <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OutOfBears&theme=github_dark" />
+  <img height="153" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OutOfBears&theme=github_dark" />
 </p>
